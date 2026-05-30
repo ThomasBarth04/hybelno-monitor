@@ -4,16 +4,16 @@
 
 ## Requirements
 
-- **Max rent:** 
-- **Min size:** 
-- **Housing type:** (e.g. private room, shared housing, bedsit/hybel)
-- **Available by:** 
+- **Max rent:** 10000
+- **Min size:** 10m2 for my room, 70m2 total for the appartment
+- **Housing type:** private room, shared housing, bedsit/hybel
 
 ## Preferred areas / neighborhoods
-
+close to NTNU gløshaugen, preferable elgseter. 
 
 ## Nice to have
-
+livingroom, 3 roomates
 
 ## Deal-breakers
+5+ roomates, no livingroom and bedroom smaller than 12m2
 
