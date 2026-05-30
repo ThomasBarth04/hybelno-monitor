@@ -15,5 +15,5 @@ close to NTNU gløshaugen, preferable elgseter.
 livingroom, 3 roomates
 
 ## Deal-breakers
-5+ roomates, no livingroom and bedroom smaller than 12m2
+5+ roomates, no livingroom and bedroom smaller than 12m2, jentekollekiv, kortidsleie
 
