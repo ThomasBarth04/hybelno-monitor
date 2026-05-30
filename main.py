@@ -14,10 +14,6 @@ def main():
 
     db.init()
 
-    # Remember whether this is the very first run (empty DB)
-    stats_before = db.stats()
-    is_first_run = stats_before["total"] == 0
-
     # Reset new-flags before scraping so only today's arrivals are flagged
     db.mark_all_not_new()
 
@@ -43,7 +39,7 @@ def main():
     MATCHES_PATH.write_text(header + match_output + "\n")
     print("Wrote matches.md")
 
-    if has_new_matches and not is_first_run:
+    if has_new_matches:
         print(f"\nNew matching listings found — signalling for notification.")
         sys.exit(2)
 
